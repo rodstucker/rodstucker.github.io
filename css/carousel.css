@@ -79,6 +79,9 @@ body {
   margin-left: 10px;
 }
 
+/* Mailchimp */
+#mc_embed_signup{color: #9d9d9d;background:#222;border-color: #080808;clear:left; font:14px Helvetica,Arial,sans-serif;width:100%; }
+
 
 /* Featurettes
 ------------------------- */
